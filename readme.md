@@ -42,6 +42,7 @@ Need to build with run command : ionic build --prod
 Build IOS Apps
 + ionic cap add ios
 + ionic cap open ios
+
 for live view hot reload
 + ionic capacitor run ios -l --external
 
