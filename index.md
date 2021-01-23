@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# IONIC ANGULAR BUILD WEBSITE APK ANDROID APP IOS
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/ionicangularapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Easy and simple for develope website, IOS apps, APK android all in one with ionic feat angular and of course bootstrap too..
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By default we develop 5 page and you can add new page with you needed too...
 
-### Markdown
+![build website apk android app ios free source code download](https://a.fsdn.com/con/app/proj/ionicapps/screenshots/ionicapps%20free%20download%20source%20code%20%281%29.png/max/max/1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Home page area
 
-```markdown
-Syntax highlighted code block
+![build website apk android app ios free source code download](https://a.fsdn.com/con/app/proj/ionicapps/screenshots/ionicapps%20free%20download%20source%20code%20%285%29.png/max/max/1)
 
-# Header 1
-## Header 2
-### Header 3
+About page
 
-- Bulleted
-- List
+![build website apk android app ios free source code download](https://a.fsdn.com/con/app/proj/ionicapps/screenshots/ionicapps%20free%20download%20source%20code%20%284%29.png/max/max/1)
 
-1. Numbered
-2. List
+Gallery page
 
-**Bold** and _Italic_ and `Code` text
+![build website apk android app ios free source code download](https://a.fsdn.com/con/app/proj/ionicapps/screenshots/ionicapps%20free%20download%20source%20code%20%283%29.png/max/max/1)
 
-[Link](url) and ![Image](src)
-```
+Bonus source code project we develope free download
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![build website apk android app ios free source code download](https://a.fsdn.com/con/app/proj/ionicapps/screenshots/ionicapps%20free%20download%20source%20code%20%282%29.png/max/max/1)
 
-### Jekyll Themes
+Contact Page
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/ionicangularapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+let's learn how easy to develope all in one project website modern, APK android, APP ios all in one handling with ionic feat angular.
 
-### Support or Contact
+Need to install Node NPM
+After install NPM you need open command prompt and install ionic and angular globaly just run command :
+for ionic install : npm install -g @ionic/cli
+angular install : npm install -g @angular/cli
+if you need PWA just install :  npm install @ionic/pwa-elements
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Then download this source code and extract on project folder then run command : ionic serve
+open localhost:8100
+and congratulation you web app is live now.
+
+For build IOS app & Android APK
+Need to build with run command : ionic build --prod
+
+Build IOS Apps
++ ionic cap add ios
++ ionic cap open ios
+
+for live view hot reload
++ ionic capacitor run ios -l --external
+
+Build APK android
++ ionic cap add android
++ ionic cap open android
+
+for live view hot reload
++ ionic capacitor run android -l --external
+
+For documentation and live codding , build ios app and APK android visit we blog :
+[https://www.hockeycomputindo.com/2021/01/build-website-ios-app-apk-android-with.html](https://www.hockeycomputindo.com/2021/01/build-website-ios-app-apk-android-with.html)
