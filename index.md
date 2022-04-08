@@ -4,25 +4,13 @@ Easy and simple for develope website, IOS apps, APK android all in one with ioni
 
 By default we develop 5 page and you can add new page with you needed too...
 
-![build website apk android app ios free source code download](https://a.fsdn.com/con/app/proj/ionicapps/screenshots/ionicapps%20free%20download%20source%20code%20%281%29.png/max/max/1)
+![build website apk android app ios free source code download](https://1.bp.blogspot.com/-GUPb-Q8eYEQ/YAwN3DUH6JI/AAAAAAAAMh8/XpP9iSk4AusS8wJ513OX9WKHf03zKMlZACLcBGAsYHQ/s660/ionicapps%2Bfree%2Bdownload%2Bsource%2Bcode%2B%25285%2529.png)
 
-Home page area
-
-![build website apk android app ios free source code download](https://a.fsdn.com/con/app/proj/ionicapps/screenshots/ionicapps%20free%20download%20source%20code%20%285%29.png/max/max/1)
-
-About page
-
-![build website apk android app ios free source code download](https://a.fsdn.com/con/app/proj/ionicapps/screenshots/ionicapps%20free%20download%20source%20code%20%284%29.png/max/max/1)
-
-Gallery page
-
-![build website apk android app ios free source code download](https://a.fsdn.com/con/app/proj/ionicapps/screenshots/ionicapps%20free%20download%20source%20code%20%283%29.png/max/max/1)
-
-Bonus source code project we develope free download
-
-![build website apk android app ios free source code download](https://a.fsdn.com/con/app/proj/ionicapps/screenshots/ionicapps%20free%20download%20source%20code%20%282%29.png/max/max/1)
-
-Contact Page
++ Home page area
++ About page
++ Gallery page
++ Bonus source code project we develope free download
++ Contact Page
 
 let's learn how easy to develope all in one project website modern, APK android, APP ios all in one handling with ionic feat angular.
 
